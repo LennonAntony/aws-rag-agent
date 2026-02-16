@@ -1,4 +1,6 @@
 <img width="1920" height="230" alt="image" src="https://github.com/user-attachments/assets/68b1d1da-e8c4-45db-9d45-7b114ad46b3e" />
+Fluxo Grama:
+<img width="1254" height="580" alt="image" src="https://github.com/user-attachments/assets/9927800a-d09e-4daf-9dc9-6c69c2f3cba2" />
 
 🚀 Guia de Deploy – AWS RAG Agent (EC2 + Milvus + OpenAI + S3)
 
