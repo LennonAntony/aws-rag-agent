@@ -26,8 +26,6 @@ Armazenamento: 30GB gp3
 
 Key pair: RSA (.pem)
 
-⚠️ Nunca exponha seu IP público ou sua chave privada.
-
 🔐 Conectar via SSH
 ssh -i sua_key.pem ubuntu@SEU_IP_PUBLICO
 
@@ -165,7 +163,8 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 
 Acessar:
 
-http://SEU_IP_PUBLICO:8000/docs
+http://SEU_IP_PUBLICO:8000/ask?question=alguma pergunta sobre ao pdf inserido no s3
+
 
 🧠 Fluxo do Sistema
 
