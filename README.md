@@ -1,3 +1,5 @@
+<img width="1920" height="230" alt="image" src="https://github.com/user-attachments/assets/68b1d1da-e8c4-45db-9d45-7b114ad46b3e" />
+
 🚀 Guia de Deploy – AWS RAG Agent (EC2 + Milvus + OpenAI + S3)
 
 Este guia explica como configurar e executar um sistema de RAG (Retrieval-Augmented Generation) utilizando:
