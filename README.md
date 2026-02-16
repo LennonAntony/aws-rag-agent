@@ -1,0 +1,1 @@
+AWS RAG Agent is a Retrieval-Augmented Generation (RAG) system built with FastAPI, Milvus, and OpenAI. It ingests PDF documents from Amazon S3, generates embeddings, stores them in a vector database (Milvus), and retrieves relevant context to generate accurate AI-powered answers using OpenAI models.
